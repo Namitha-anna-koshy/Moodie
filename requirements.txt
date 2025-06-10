@@ -1,0 +1,17 @@
+# Core sentiment analysis
+textblob==0.17.1
+vaderSentiment==3.3.2
+
+# GPT API
+openai==1.3.0
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Optional: For advanced preprocessing
+nltk==3.8.1
